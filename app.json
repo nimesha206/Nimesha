@@ -1,14 +1,14 @@
 { 
-  "name": "XLICON MD",
+  "name": "NIMESHA WHATSAPP BOT",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
+  "logo": "https://telegra.ph/Nimesha-whatsapp-bot-03-21",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Xlicon Bot", "Xlicon","Xlicon MD","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "Salman Ahmad"
+      "value": "NIMESHA MADHUSHAN"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"
+     "value": "https://telegra.ph/Nimesha-whatsapp-bot-03-21"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -51,8 +51,8 @@
     },
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
-     "required" :false,
-     "value": "false"
+     "required" :true,
+     "value": "true"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -66,14 +66,14 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": ".,"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "Put Owner Number here"
+       "value": "94789549564"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to XLICON-MD Github Repo U can find the Scanner Option"
+    "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNEFMOXBVQkM0dlg3dDhOTDNYci9DUHdwcEw2YW9oME9VMnU4cHZlYWcyaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUpyWEFsOFN3dDZSSytBUkZ6V25nNXpuWDRpTmNvcmIzcXpjWTkrQk5IRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwRjd1RWJPNGhWNlpDenpPelhqcHJOWUhOaDdocWxzaDBYQ1pVd1BrcUdBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI5S1MyN0NaM0QrTFJEWllxU0kyYnR5bGhSMkZvWGRydGdmS0hSREtEb0JFPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVBc204Z3NCTXRuemxRM1ROaXJ0QVlmZ2pTWGV3ZVdEaFhaQ0JmNDNFMUk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImhkazVGVlFlNkxGRUlhamQrcXNseXA0ZjRQV0pzOUwwUGl0b3E4RGx2MEE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ1BhRmxOczk2Sy9OaWd3VEhHTkhQbVprY3NadFVQNjBsUitvUllWUWlHMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQTBKMjNWQXlXU2R5MXhBNFY5QmNmYkVvZzIzMC9YZ0NpUVI4MzZvWjdSQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Imx5c0d2ZE5pRnZXWmJSR2xIUmNxOFBwSnFYVEFWazNtNnA1SW1uWHlRbnUrTnJoTXQ1d3R6WE9KWWdVWEJzNXlReFpvRzF0ZDNuN1ZrblA0cmVHdEFBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjM5LCJhZHZTZWNyZXRLZXkiOiIxOFJheFFZRk1tV25FTTYyamJZWm9SeEFwQjZ3ODJGSVJuczZMNGdJRlpBPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJLZ3FtRlduSlN2dWdJVnlkMW5ORDhnIiwicGhvbmVJZCI6ImQyM2MyNzBlLTVlODItNDg4Yi1iMzdiLTRkNTk2MTY1YzdhMSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ0bE1KWWdrZGhrWlN3VitBZzI5ZUdLdjBaaGc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQVVXcWV4MUp5Ri9BYmlMcitkWS93eEdtdGFRPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkY0SDYxSkxNIiwibWUiOnsiaWQiOiI5NDc4OTU0OTU2NDoyM0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiLinaTvuI/inYDinYPwn5iB4oG/4oGx4bWQ4bWJy6LKsOG1g/CfmYPig5/bneKDn8ylzKnMqcypzKXMqcylzZrMriJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDS1M2cFlJQ0VJM3U4SzhHR0FNZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiSitOQkIxdFRMV1JHdGRjakJtbmRHVlZ3amRnS0NBVzE1MzF2ODBUZE5DRT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiaTJFbjFLWHFlWVBtc2tjdGh0MjU1dGJWbUNxblNpMnJPWno0c0RBOHlWOXdWL1Q3UVpXbjBRZW1pQ1hSM2pNdGtsYWpKQXB4MS9FZ0JqQWcxUE55Q3c9PSIsImRldmljZVNpZ25hdHVyZSI6IlAvaWFxMCtCTkhRNmFaWEhTVWNBSWpKWnI3U3VoWHVBaGlvME9wMzI1ZU95ekVLWEEvbnhxakxzVnRHemphYm9QaklhVW9KNkRwNTRtQmFlcXM2WkJBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTQ3ODk1NDk1NjQ6MjNAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCU2ZqUVFkYlV5MWtSclhYSXdacDNSbFZjSTNZQ2dnRnRlZDliL05FM1RRaCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxMTAyNzk4NCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFHV3AifQ=="
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -100,12 +100,12 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "",
+    "value": "NIMESHA WHATSAPP BOT",
     "required" :true
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "",
+    "value": "NIMESHA WHATSAPP BOT",
     "required" :true
   },
   "heroku": {
