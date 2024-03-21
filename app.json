@@ -82,7 +82,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "",
+    "value": "mongodb+srv://mongonimesha:URL@nimesha.lcdkmna.mongodb.net/?retryWrites=true&w=majority&appName=Nimesha",
     "required" :true
   },
     "THEME": {
